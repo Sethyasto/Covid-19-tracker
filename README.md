@@ -63,6 +63,4 @@ Vaccination Progress
 📝 Notes
 Data is automatically refreshed when notebook is run
 
-Last updated: [Insert Date]
-
 For real-time updates, run all notebook cells﻿# Covid-19-tracker
